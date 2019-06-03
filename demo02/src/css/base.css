@@ -1,0 +1,19 @@
+/* base.css */
+*,
+body {
+  margin: 0;
+  padding: 0;
+}
+.box {
+  height: 400px;
+  width: 400px;
+  border: 5px solid #000;
+  color: #000;
+  background: url('./../assets/imgs/1.jpg') no-repeat;
+}
+.box div {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
